@@ -1,0 +1,5 @@
+div.third ul li:nth-child(3)
+{background : blue}
+/*here class"third" is defined,where the third element of 
+unordered list in div contains blue "background",using pseudo class
+here*/
